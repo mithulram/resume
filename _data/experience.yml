@@ -1,19 +1,25 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Xmplar | Bangalore, Karnataka, India.
+  position: Junior Developer
+  duration: May, 2022 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Database Integration<li>:</li> Integrated JDBC connection in the 'Coverme' project to improve data handling and efficiency.</li><li>Responsive UI Development<li>:</li> Utilized Flutter to design a user-friendly interface that adapts to various devices, including web, mobile, and tablets.</li><li>Location Tracking Enhancement<li>:</li> Enhanced the user experience by implementing precise turn-by-turn location tracking using Mapbox services.</li><li>Firebase Expertise<li>:</li>Proficiently utilized Firebase for comprehensive analytics, crash analysis, push notifications, and dynamic linking.</li><li>Referral System Innovation<li>:</li>Engineered an innovative referral system through deep and dynamic links, leading to increased user engagement and growth.</li>
+
+  # Director of Digital Stratgy
+- company: Xmplar | Bangalore, Karnataka, India.
+  position: Intern
+  duration:  Dec, 2021 &mdash; May, 2022
+  summary:  <ul class="resume-item-list"><li>Adopted Flutter Proficiency<li>:</li> Acquired expertise in Flutter, a modern UI toolkit, to elevate development capabilities.</li><li>Innovative Solution Delivery<li>:</li> Spearheaded a project that effectively addressed the task of identifying qualified professionals for gym and event training coverage.<li>Frontend Excellence<li>:</li> Skillfully utilized Flutter to architect a responsive and dynamic user interface, optimizing user experience.
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Adpay | Chennai, TamilNadu, India
+  position: Intern
+  duration:  May, 2020 &mdash; July, 2020
+  summary: <ul class="resume-item-list"><li>worked in the backend creating API using Java and spring boot.</li><li>It was a Distributor application in android.</li>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# # Communications Coordinator
+# - company: Springfield Women & Children's Center
+#   position: Communications Coordinator
+#   duration:   Jun, 2008  &mdash; May, 2010
+#   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
